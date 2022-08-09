@@ -1,5 +1,11 @@
 -- COLLECTION BEHAVIOUR IN THE JAVA
 
+Collection in the java is the extension of the Iterable
+
+Iterable -> Collection  -> Set
+                        -> List
+                        -> Queue
+
 1. SET
 - Collection that not allow the duplicate elements
 - Unordered
