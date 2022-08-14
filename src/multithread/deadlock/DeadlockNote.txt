@@ -1,0 +1,10 @@
+Deadlock
+
+1. Deadlock happen when two threads waiting for two resource at same time
+2. Example:
+    a. Thread one synchronized method
+        - using itemA
+        - need itemB
+    b. Thread two synchronized method
+        - using itemB
+        - need itemA
